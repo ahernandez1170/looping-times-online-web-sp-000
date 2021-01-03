@@ -6,14 +6,5 @@ def using_times
 end
 end
 
-golf_balls = 10
-1.times do 
-  puts " I am trying to golf here"
-   golf_balls = golf_balls - 1
-end
-
-puts "I only have #{golf_balls} balls left!"
-
-
 
 
